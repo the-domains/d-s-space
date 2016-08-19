@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8917098
+color:
+  saturation: 0.5453787
+  lightness: 0.3517913
+  brandStrength: 0.2628054
+  brandColors:
+    - '#FFFEFC'
+    - '#101010'
+    - '#C7C5C1'
+    - '#565654'
+    - '#9F9D9B'
+  rhythmicContrast: 0.1361074
+name: D's Space
